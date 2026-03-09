@@ -37,5 +37,10 @@
 ---
 
 ## 🎯 Long-Term Goal
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alvarado-pyton&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alvarado-pyton&layout=compact&theme=tokyonight)
 
 Build a complete restaurant management system with automation, stock control, and intelligent analytics.
